@@ -50,4 +50,32 @@ The dashboard provides actionable insights into performance trends from **2019�
 
 ---
 
-## 📂 Repository Structure
+## # 📊 Sales View Report – Software Accessories
+
+## 📌 Overview
+This repository showcases a **Power BI dashboard** analyzing Net Sales (NS $), Gross Margin (GM $), and GM % across customers, regions, and product segments for **2019–2022 (Est.)**.  
+The report highlights key business insights in the software accessories domain.
+
+---
+
+## 📈 Key Highlights
+- **Overall Gross Margin**: 38.08% across all segments.
+- **Top Customers by Sales**: Amazon, AltiQ Exclusive, Atliq e Store.
+- **High GM % Customers**: AltiQ Exclusive (47.22%), Neptune (46.70%), Walmart (45.66%).
+- **Balanced Segment Performance**: Accessories, Peripherals, Notebook, Desktop all ~38% GM %.
+
+---
+
+## 📸 Screenshots
+- Sales Overview  
+- Customer Performance  
+- Segment Analysis  
+
+*(Screenshots included in `/Screenshots` folder)*
+
+---
+
+## 👤 Author
+**Surekha N**  
+Business Analyst | Power BI Enthusiast  
+📍 Miyapur, Telangana, India
